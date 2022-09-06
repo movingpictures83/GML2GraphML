@@ -1,2 +1,2 @@
 Prefix plugins/GML2GraphML/example
-Plugin GML2GraphML inputfile input.gml outputfile output.csv
+Plugin GML2GraphML inputfile input.gml outputfile output.graphml
